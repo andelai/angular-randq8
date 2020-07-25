@@ -18,6 +18,11 @@ export const products = [
     name: 'Anđela phone',
     price: 1000,
     description: 'this is huawei p30 lite' 
+  },
+  {
+    name: 'Anđela phone Old',
+    price: 13000,
+    description: '' 
   }
 ];
 
